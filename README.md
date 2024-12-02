@@ -1,3 +1,5 @@
+![Bannière](https://images8.alphacoders.com/138/thumb-1920-1383986.png)
+
 <h1 align="center">Hi ! I'm Alix Andrieu</h1>
 <h3 align="center">A passionate developer from France</h3>
 
