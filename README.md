@@ -1,6 +1,6 @@
 ![Bannière](https://images8.alphacoders.com/138/thumb-1920-1383986.png)
 
-<h1 align="center">Hi ! I'm Alix Andrieu</h1>
+<h1 align="center">𝑯𝒊 ! 𝑰'𝒎 𝑨𝒍𝒊𝒙 𝑨𝒏𝒅𝒓𝒊𝒆𝒖</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 🔭 I’m currently working on **some games**
